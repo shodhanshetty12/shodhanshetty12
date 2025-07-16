@@ -4,49 +4,9 @@ Hi 👋 My name is Shodhan Kumar Shetty
 Tech Learner | Java & SQL | Web Development & Data Analytics
 ------------------------------------------------------------
 
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
 👋 Hi, I'm Shodhan Kumar Shetty
 
 💻 Computer Science Engineering Student | ☕ Java Developer | 🌐 Web Tech Explorer | 🤖 AI Enthusiast
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
-
-\---
 
 I began my coding journey in 2023, and since then, I’ve grown both technically and personally. I’m currently in my final year of B.E. in Computer Science Engineering at Alva’s Institute of Engineering and Technology, Karnataka, India.
 
@@ -54,29 +14,29 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
 🧰 Tech Stack & Tools:
 
-\- 🧑‍💻 Languages: Java, JavaScript, Python, SQL, HTML, CSS
+ 🧑‍💻 Languages: Java, JavaScript, Python, SQL, HTML, CSS
 
-\- 🌐 Web Technologies: JSP, Servlets, Bootstrap, DOM Manipulation
+ 🌐 Web Technologies: JSP, Servlets, Bootstrap, DOM Manipulation
 
-\- 🗃️ Database: PostgreSQL, MySQL
+ 🗃️ Database: PostgreSQL, MySQL
 
-\- 🛠️ Tools: VS Code, Eclipse IDE, LaTeX, Netron, Jupyter Notebook, Git & GitHub
+ 🛠️ Tools: VS Code, Eclipse IDE, LaTeX, Netron, Jupyter Notebook, Git & GitHub
 
-\- 🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
+ 🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
 📜 Certifications:
 
-\- 🎓 Supervised Machine Learning – Coursera (by Andrew Ng, Stanford University)
+ 🎓 Supervised Machine Learning – Coursera (by Andrew Ng, Stanford University)
 
-\- 🧠 Data Structures & Algorithms using Java – Infosys Springboard
+ 🧠 Data Structures & Algorithms using Java – Infosys Springboard
 
-\- 💼 Software Engineering – Infosys Springboard
+ 💼 Software Engineering – Infosys Springboard
 
-\- 🛡️ Ethical Hacking – Infosys Springboard
+ 🛡️ Ethical Hacking – Infosys Springboard
 
-\- 🌐 Networking – Infosys Springboard
+ 🌐 Networking – Infosys Springboard
 
-\- 📘 Analysis and Design of Algorithms – CodeChef
+ 📘 Analysis and Design of Algorithms – CodeChef
 
 🚀 Academic Projects & Interests:
 
@@ -98,25 +58,25 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
 
 🎯 Goals:
 
-\- 📈 Build and contribute to real-world impactful projects
+ 📈 Build and contribute to real-world impactful projects
 
-\- 🔍 Explore deeper into AI, Web Engineering, and Security
+ 🔍 Explore deeper into AI, Web Engineering, and Security
 
-\- 🤝 Collaborate with developers and mentors
+ 🤝 Collaborate with developers and mentors
 
-\- 🧩 Continue improving problem-solving and design thinking skills
+ 🧩 Continue improving problem-solving and design thinking skills
 
 📬 Let’s Connect:
 
-\- 🔗 LinkedIn: https://www.linkedin.com/in/shodhanshetty12
+ 🔗 LinkedIn: https://www.linkedin.com/in/shodhanshetty12
 
-\- 🐙 GitHub: https://github.com/shodhanshetty12
+ 🐙 GitHub: https://github.com/shodhanshetty12
 
-\- 💡 LeetCode: https://leetcode.com/u/CtrlAltConquer/
+ 💡 LeetCode: https://leetcode.com/u/CtrlAltConquer/
 
-\- 🍽️ CodeChef: https://www.codechef.com/users/shodhanshetty
+ 🍽️ CodeChef: https://www.codechef.com/users/shodhanshetty
 
-\- 🌐 Portfolio: Coming Soon
+ 🌐 Portfolio: Coming Soon
 
 💬 "Code is not just what we type; it's how we think. Every bug fixed is a problem solved, and every project is a step forward."
 
