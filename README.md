@@ -76,21 +76,19 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
  ---
 📬 Let’s Connect:
 
- 🔗 LinkedIn: https://www.linkedin.com/in/shodhanshetty12
+ 🔗 LinkedIn: [shodhanKumarShetty](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252/)
 
- 🐙 GitHub: https://github.com/shodhanshetty12
+ 🐙 GitHub: [shodhanshetty12](https://github.com/shodhanshetty12)
 
- 💡 LeetCode: https://leetcode.com/u/CtrlAltConquer/
+ 💡 LeetCode: [CtrlAltConquer](https://leetcode.com/u/CtrlAltConquer/)
 
- 🍽️ CodeChef: https://www.codechef.com/users/shodhanshetty
+ 🍽️ CodeChef: [shodhanshetty](https://www.codechef.com/users/shodhanshetty)
 
  🌐 Portfolio: Coming Soon
 
-💬 "Code is not just what we type; it's how we think. Every bug fixed is a problem solved, and every project is a step forward."
-
-— Shodhan Kumar Shetty
-*   ✉️  You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)
-*   ⚡  Quietly chasing excellence — one project at a time### Skills 
+ ✉️  You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)
+ 
+ ⚡  Quietly chasing excellence — one project at a time### Skills 
 
 ---
 🛠️Skills:
@@ -101,22 +99,22 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
 ---
 🌐Socials:
 <p align="left">
-  <a href="https://discord.com/users/shodhankumarshetty" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
+  <a href="https://discord.com/users/shodhankumarshetty" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" title="Discord" />
   </a>
-  <a href="https://github.com/shodhanshetty12" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+  <a href="https://github.com/shodhanshetty12" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" title="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/shodhan-kumar-shetty-182568252/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+  <a href="https://www.linkedin.com/in/shodhan-kumar-shetty-182568252/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
   </a>
-  <a href="http://www.medium.com/@shodhankumarshetty963" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
+  <a href="http://www.medium.com/@shodhankumarshetty963" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="36" height="36" alt="Medium" title="Medium" />
   </a>
-  <a href="https://stackoverflow.com/users/26446387/shodhan-kumar-shetty" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" />
+  <a href="https://stackoverflow.com/users/26446387/shodhan-kumar-shetty" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="36" height="36" alt="Stack Overflow" title="Stack Overflow" />
   </a>
-  <a href="https://www.youtube.com/@shodhanshetty12" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
+  <a href="https://www.youtube.com/@shodhanshetty12" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="YouTube" title="YouTube" />
   </a>
 </p>
