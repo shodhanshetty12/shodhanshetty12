@@ -13,7 +13,7 @@ I began my coding journey in 2023, and since then, I’ve grown both technically
 My primary focus lies in Java programming, especially solving algorithmic problems involving arrays, strings, and number logic. I'm equally passionate about building functional, user-friendly web applications, often using HTML, CSS, JavaScript, JSP/Servlets, and PostgreSQL for backend operations.
 
 
---
+---
 🧰 Tech Stack & Tools:
 
  🧑‍💻 Languages: Java, JavaScript, Python, SQL, HTML, CSS
@@ -26,7 +26,7 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
  🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
---
+---
 📜 Certifications:
 
  🎓 Supervised Machine Learning – Coursera (by Andrew Ng, Stanford University)
@@ -41,7 +41,7 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
  📘 Analysis and Design of Algorithms – CodeChef
 
---
+---
 🚀 Academic Projects & Interests:
 1\. 🎧 Fake Audio Detection (Deep Learning)
 
@@ -60,7 +60,7 @@ AI-based real-time web dashboard that visualizes logistics data and improves man
 Full-stack JSP-based web application for admin-controlled mark entry, session & cookie management, and responsive dashboard with chart widgets.
 
 
---
+---
 🎯 Goals:
 
  📈 Build and contribute to real-world impactful projects
@@ -72,7 +72,7 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
  🧩 Continue improving problem-solving and design thinking skills
 
 
- --
+ ---
 📬 Let’s Connect:
 
  🔗 LinkedIn: https://www.linkedin.com/in/shodhanshetty12
@@ -88,7 +88,6 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
 💬 "Code is not just what we type; it's how we think. Every bug fixed is a problem solved, and every project is a step forward."
 
 — Shodhan Kumar Shetty
-
 *   ✉️  You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)
 *   ⚡  Quietly chasing excellence — one project at a time### Skills 
 <p align="left">
