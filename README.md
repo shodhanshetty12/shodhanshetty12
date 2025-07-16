@@ -12,6 +12,8 @@ I began my coding journey in 2023, and since then, I’ve grown both technically
 
 My primary focus lies in Java programming, especially solving algorithmic problems involving arrays, strings, and number logic. I'm equally passionate about building functional, user-friendly web applications, often using HTML, CSS, JavaScript, JSP/Servlets, and PostgreSQL for backend operations.
 
+
+--
 🧰 Tech Stack & Tools:
 
  🧑‍💻 Languages: Java, JavaScript, Python, SQL, HTML, CSS
@@ -24,6 +26,7 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
  🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
+--
 📜 Certifications:
 
  🎓 Supervised Machine Learning – Coursera (by Andrew Ng, Stanford University)
@@ -38,8 +41,8 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
  📘 Analysis and Design of Algorithms – CodeChef
 
+--
 🚀 Academic Projects & Interests:
-
 1\. 🎧 Fake Audio Detection (Deep Learning)
 
 Using CNN to detect deepfake audio in the ASVspoof 2019 dataset, helping prevent scam calls and impersonation attacks.
@@ -56,6 +59,8 @@ AI-based real-time web dashboard that visualizes logistics data and improves man
 
 Full-stack JSP-based web application for admin-controlled mark entry, session & cookie management, and responsive dashboard with chart widgets.
 
+
+--
 🎯 Goals:
 
  📈 Build and contribute to real-world impactful projects
@@ -66,6 +71,8 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
 
  🧩 Continue improving problem-solving and design thinking skills
 
+
+ --
 📬 Let’s Connect:
 
  🔗 LinkedIn: https://www.linkedin.com/in/shodhanshetty12
@@ -88,7 +95,6 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" title="Swift"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="36" height="36" alt="XCode" title="XCode"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a>
                     </p>
                     
-                 ### 🌐 Socials
 
 <p align="left">
   <a href="https://discord.com/users/shodhankumarshetty" target="_blank">
