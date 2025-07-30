@@ -27,6 +27,10 @@ My primary focus lies in Java programming, especially solving algorithmic proble
  🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
 ---
+![GitHub Metrics](https://github.com/shodhanshetty12/shodhanshetty12/blob/main/metrics.classic.svg)
+
+
+---
 📜 Certifications:
 
  🎓 Supervised Machine Learning – Coursera (by Andrew Ng, Stanford University)
