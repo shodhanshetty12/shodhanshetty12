@@ -1,0 +1,24 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'     # Runs every 6 hours; adjust as needed
+  workflow_dispatch:          # Enables manual triggering in GitHub Actions tab
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: shodhanshetty12               # Your GitHub username here
+          template: classic                   # Use classic metrics template
+          config_timezone: Asia/Kolkata      # Set your preferred timezone
+          base: header, activity, community, repositories, metadata
+
+          # Enable desired plugins by setting to 'yes'
+          plugin_isocalendar: yes             # Isometric commit calendar
+          plugin_languages: yes               # Languages activity stats
+          plugin_stars: yes                   # Recently starred repos
+          # Add more plugins if you want; see documentation for options
