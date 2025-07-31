@@ -28,8 +28,6 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
 ---
 ![GitHub Metrics](https://github.com/shodhanshetty12/shodhanshetty12/blob/main/metrics.classic.svg)
-
-
 ---
 📜 Certifications:
 
