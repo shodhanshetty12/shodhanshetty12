@@ -6,7 +6,7 @@ Tech Learner | Java & SQL | Web Development & Data Analytics
 
 👋 Hi, I'm Shodhan Kumar Shetty
 
-💻 Computer Science Engineering Student | ☕ Java Developer | 🌐 Web Tech Explorer | 🤖 AI Enthusiast
+💻 Computer Science Engineering Student | ☕ Java Developer | 🌐 Web Tech Explorer | 🤖 ML Enthusiast
 
 I began my coding journey in 2023, and since then, I’ve grown both technically and personally. I’m currently in my final year of B.E. in Computer Science Engineering at Alva’s Institute of Engineering and Technology, Karnataka, India.
 
