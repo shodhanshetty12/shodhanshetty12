@@ -20,7 +20,7 @@ Tech Learner | Java. C, C++ & Python | Web Development | Database Management wit
 
 I began my coding journey in 2023, and since then, I’ve grown both technically and personally. I’m currently in my final year of B.E. in Computer Science Engineering at Alva’s Institute of Engineering and Technology, Karnataka, India.
 
-My primary focus lies in Java programming, especially solving algorithmic problems involving arrays, strings, and number logic. I'm equally passionate about building functional, user-friendly web applications, often using HTML, CSS, JavaScript, JSP/Servlets, and PostgreSQL for backend operations.
+My primary focus lies in Java programming, especially solving algorithmic problems involving arrays, strings, and number logic. I'm equally passionate about building functional, user-friendly web applications, often using HTML, CSS, JavaScript, JSP/Servlets.
 
 ---
 🧰 Tech Stack & Tools:
