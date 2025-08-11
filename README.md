@@ -4,9 +4,10 @@
     </h1>
 </div>
 
-<p align="center">
-  <img alt="Cybersecurity Animation" src="https://i0.wp.com/media3.giphy.com/media/dU97uV3UyP0ly/giphy.gif" style="max-width:100%; height:auto;">
-</p>
+<div align="center">
+  <img alt="Cybersecurity Animation" width="700" src="https://i0.wp.com/media3.giphy.com/media/dU97uV3UyP0ly/giphy.gif">
+</div>
+
 
 ---
 
