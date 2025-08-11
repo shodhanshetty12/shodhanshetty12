@@ -10,8 +10,9 @@
 
 ---
 <div align="center">
-  <img alt="ML Cybersecurity Animation" width="700" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xEXIZNT1WPZn9CSZZkaudg.gif">
+  <img alt="3D Torus Animation" width="700" src="https://user-images.githubusercontent.com/20885547/108604135-b2f4c980-738a-11eb-8030-6eda2f355ec3.gif">
 </div>
+
 
 ---
 
