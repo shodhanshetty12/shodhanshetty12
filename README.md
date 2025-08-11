@@ -9,7 +9,7 @@
 </div>
 
 ![snake gif](https://github.com/shodhanshetty12/shodhanshetty12/blob/output/github-snake-dark.svg)
-![snake gif](https://github.com/shodhanshetty12/shodhanshetty12/blob/output/ocean.gif)
+
 
 ---
 
