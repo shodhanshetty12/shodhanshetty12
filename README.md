@@ -171,7 +171,9 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="YouTube" title="YouTube" />
   </a>
 </p>
+
 ---
+
 <div align="center">
   <img alt="3D Torus Animation" width="700" src="https://user-images.githubusercontent.com/20885547/108604135-b2f4c980-738a-11eb-8030-6eda2f355ec3.gif">
 </div>
