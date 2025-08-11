@@ -4,10 +4,10 @@
     </h1>
 </div>
 
----
-<div align="center">
-  <img alt="ML Cybersecurity" width="700" src="https://analyticsindiamag.com/wp-content/uploads/2021/08/ml-cybersecurity.gif">
-</div>
+<p align="center">
+  <img alt="Cybersecurity Animation" src="https://i0.wp.com/media3.giphy.com/media/dU97uV3UyP0ly/giphy.gif" style="max-width:100%; height:auto;">
+</p>
+
 ---
 
 Tech Learner | Java & SQL | Web Development & Data Analytics
