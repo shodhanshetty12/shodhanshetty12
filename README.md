@@ -8,7 +8,9 @@
   <img alt="Cybersecurity Animation" width="700" src="https://i0.wp.com/media3.giphy.com/media/dU97uV3UyP0ly/giphy.gif">
 </div>
 
-![snake gif](https://github.com/shodhanshetty12/shodhanshetty12/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/shodhanshetty12/shodhanshetty12/blob/output/github-snake-dark.svg" alt="snake gif">
+</p>
 
 
 ---
