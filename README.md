@@ -102,16 +102,19 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shodhanshetty12&theme=transparent" alt="Repos Per Language"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shodhanshetty12&theme=transparent" alt="Most Commit Language"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shodhanshetty12&theme=transparent" alt="Repos Per Language"/>
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shodhanshetty12&theme=transparent" alt="Most Commit Language"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 🛠Skills:
