@@ -11,7 +11,7 @@
 
 ---
 
-Tech Learner | Java & SQL | Web Development & Data Analytics
+Tech Learner | Java. C, C++ & Python | Web Development | Database Management with SQL | Cloud | Machine Learning 
 ------------------------------------------------------------
 
 👋 Hi, I'm Shodhan Kumar Shetty
