@@ -24,6 +24,12 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
 
 ---
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shodhanshetty12)](https://git.io/streak-stats)
+
+</div>
+---
 🧰 Tech Stack & Tools:
 
  🧑‍💻 Languages: Java, JavaScript, Python, SQL, HTML, CSS
