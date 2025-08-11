@@ -4,13 +4,11 @@
     </h1>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+---
+<div align="center">
+  <img alt="ML Cybersecurity" width="700" src="https://analyticsindiamag.com/wp-content/uploads/2021/08/ml-cybersecurity.gif">
+</div>
+---
 
 Tech Learner | Java & SQL | Web Development & Data Analytics
 ------------------------------------------------------------
