@@ -97,8 +97,9 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
 
 ---
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[shodhanshetty12]&theme=github_dark" alt="[Shodhan]'s GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shodhanshetty12&theme=github_dark" alt="Shodhan Shetty's GitHub Stats"/>
 </div>
+
 ---
 🛠Skills:
 <p align="left">
