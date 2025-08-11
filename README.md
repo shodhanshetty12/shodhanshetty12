@@ -115,6 +115,19 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
   </table>
 </div>
 
+---
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shodhanshetty12&theme=dark" alt="GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shodhanshetty12&theme=dark&utcOffset=8" alt="Productive Time"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 🛠Skills:
