@@ -22,13 +22,6 @@ I began my coding journey in 2023, and since then, I’ve grown both technically
 
 My primary focus lies in Java programming, especially solving algorithmic problems involving arrays, strings, and number logic. I'm equally passionate about building functional, user-friendly web applications, often using HTML, CSS, JavaScript, JSP/Servlets, and PostgreSQL for backend operations.
 
-
----
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shodhanshetty12)](https://git.io/streak-stats)
-
-</div>
 ---
 🧰 Tech Stack & Tools:
 
@@ -108,6 +101,12 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
  
  ⚡  Quietly chasing excellence — one project at a time### Skills 
 
+---
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shodhanshetty12)](https://git.io/streak-stats)
+
+</div>
 ---
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shodhanshetty12&theme=github_dark" alt="Shodhan Shetty's GitHub Stats"/>
