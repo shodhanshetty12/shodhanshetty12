@@ -8,7 +8,10 @@
   <img alt="Cybersecurity Animation" width="700" src="https://i0.wp.com/media3.giphy.com/media/dU97uV3UyP0ly/giphy.gif">
 </div>
 
-
+---
+<p align="center">
+  <img alt="ML Cybersecurity Animation" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xEXIZNT1WPZn9CSZZkaudg.gif" style="max-width:700px; width:100%; height:auto;">
+</p>
 ---
 
 Tech Learner | Java. C, C++ & Python | Web Development | Database Management with SQL | Cloud | Machine Learning 
