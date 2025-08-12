@@ -27,20 +27,46 @@ I began my coding journey in 2023, and since then, I’ve grown both technically
 My primary focus lies in Java programming, especially solving algorithmic problems involving arrays, strings, and number logic. I'm equally passionate about building functional, user-friendly web applications, often using HTML, CSS, JavaScript, JSP/Servlets.
 
 ---
-🧰 Tech Stack & Tools:
+# 🧰 Tech Stack & Tools:
 
- 🧑‍💻 Languages: Java, JavaScript, Python, SQL, HTML, CSS
+ 🧑‍💻 Languages: Java, C, C++, JavaScript, Python, HTML, CSS, SQL, LaTeX
 
  🌐 Web Technologies: JSP, Servlets, Bootstrap, DOM Manipulation
 
  🗃 Database: PostgreSQL, MySQL
 
- 🛠 Tools: VS Code, Eclipse IDE, LaTeX, Netron, Jupyter Notebook, Git & GitHub
+ 🛠 Tools: VS Code, Eclipse IDE, Overleaf, Netron, Jupyter Notebook, Git & GitHub, Microsoft Excel, Xcode, 
 
  🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
  ---
  
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
+
+📬 Let’s Connect:<br><br>
+
+🔗 LinkedIn: [shodhanKumarShetty](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252/)<br>
+🐙 GitHub: [shodhanshetty12](https://github.com/shodhanshetty12)<br>
+💡 LeetCode: [CtrlAltConquer](https://leetcode.com/u/CtrlAltConquer/)<br>
+🍽 CodeChef: [shodhanshetty](https://www.codechef.com/users/shodhanshetty)<br>
+🌐 Portfolio: Coming Soon<br>
+✉ You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)<br><br>
+⚡ Quietly chasing excellence — one project at a time<br><br>
+
+
+
+</div>
+
+---
+
+
+<div style="flex: 1; max-width: 300px;">
+  <img src="https://media.giphy.com/media/xuWkuYl33i28fIwkBM/giphy.gif" alt="Coding GIF" style="width: 100%;"/>
+</div>
+
+</div>
 
 ---
 
