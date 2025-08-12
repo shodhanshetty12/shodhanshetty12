@@ -39,16 +39,6 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
  🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
----
-![GitHub Metrics](https://github.com/shodhanshetty12/shodhanshetty12/blob/main/metrics.classic.svg)
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shodhanshetty12&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodhanshetty12&layout=compact&theme=dark" height="165">
-</p>
-
  ---
 📬 Let’s Connect:
 
@@ -105,7 +95,9 @@ My primary focus lies in Java programming, especially solving algorithmic proble
     </tr>
   </table>
 </div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodhanshetty12&layout=compact&theme=dark" height="165">
+</p>
 ---
 🛠Skills:
 <p align="left">
