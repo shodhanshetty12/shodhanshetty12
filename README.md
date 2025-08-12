@@ -65,8 +65,7 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 </div>
 
 ---
-
-<div style="display: flex; flex-wrap: nowrap; gap: 20px; justify-content: flex-start; align-items: flex-start;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
   <img src="https://media.giphy.com/media/wshaU8JlYmTio/giphy.gif" alt="GIF 1" style="width: 150px; height: auto;" />
   <img src="https://media.giphy.com/media/fLeK058KMisNzSM4B0/giphy.gif" alt="GIF 2" style="width: 150px; height: auto;" />
   <img src="https://media.giphy.com/media/lMUGMp2lImgGA/giphy.gif" alt="GIF 3" style="width: 150px; height: auto;" />
