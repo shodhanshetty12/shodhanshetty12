@@ -58,15 +58,13 @@ My primary focus lies in Java programming, especially solving algorithmic proble
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/fLeK058KMisNzSM4B0/giphy.gif" alt="GIF 2" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/lMUGMp2lImgGA/giphy.gif" alt="GIF 3" width="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
----
-    
   <img src="https://media.giphy.com/media/xuWkuYl33i28fIwkBM/giphy.gif" alt="Coding GIF" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/lMUGMp2lImgGA/giphy.gif" alt="GIF 3" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/123wIcupCyLHWw/giphy.gif" alt="GIF 4" width="150" />
 </p>
+
 
 
 ---
