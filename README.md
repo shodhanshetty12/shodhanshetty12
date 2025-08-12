@@ -66,6 +66,23 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
 ---
 
+<div style="display: flex; gap: 20px; justify-content: flex-start; align-items: flex-start;">
+  <div style="flex: 0 0 150px;">
+    <img src="https://media.giphy.com/media/wshaU8JlYmTio/giphy.gif" alt="GIF 1" style="width: 150px; height: auto; display: block;" />
+  </div>
+  <div style="flex: 0 0 150px;">
+    <img src="https://media.giphy.com/media/fLeK058KMisNzSM4B0/giphy.gif" alt="GIF 2" style="width: 150px; height: auto; display: block;" />
+  </div>
+  <div style="flex: 0 0 150px;">
+    <img src="https://media.giphy.com/media/lMUGMp2lImgGA/giphy.gif" alt="GIF 3" style="width: 150px; height: auto; display: block;" />
+  </div>
+  <div style="flex: 0 0 150px;">
+    <img src="https://media.giphy.com/media/123wIcupCyLHWw/giphy.gif" alt="GIF 4" style="width: 150px; height: auto; display: block;" />
+  </div>
+</div>
+
+---
+
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shodhanshetty12)](https://git.io/streak-stats)
