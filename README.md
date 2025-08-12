@@ -175,6 +175,9 @@ Full-stack JSP-based web application for admin-controlled mark entry, session & 
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/shodhanshetty12/shodhanshetty12/blob/output/ocean.gif" alt="Snake GIF">
+</p>
 
 <div align="center">
   <img alt="3D Torus Animation" width="700" src="https://user-images.githubusercontent.com/20885547/108604135-b2f4c980-738a-11eb-8030-6eda2f355ec3.gif">
