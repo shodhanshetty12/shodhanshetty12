@@ -40,34 +40,7 @@ My primary focus lies in Java programming, especially solving algorithmic proble
  🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
  ---
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
-📬 Let’s Connect:
-
-🔗 LinkedIn: [shodhanKumarShetty](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252/)
-
-🐙 GitHub: [shodhanshetty12](https://github.com/shodhanshetty12)
-
-💡 LeetCode: [CtrlAltConquer](https://leetcode.com/u/CtrlAltConquer/)
-
-🍽 CodeChef: [shodhanshetty](https://www.codechef.com/users/shodhanshetty)
-
-🌐 Portfolio: Coming Soon
-
-✉ You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)
-
-⚡ Quietly chasing excellence — one project at a time
-
-### Skills
-
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://media.giphy.com/media/xuWkuYl33i28fIwkBM/giphy.gif" alt="Coding GIF" width="100%" />
-    </td>
-  </tr>
-</table> 
+ 
 
 ---
 <div align="center">
