@@ -40,10 +40,10 @@ My primary focus lies in Java programming, especially solving algorithmic proble
  🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
  ---
- 
+
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<div style="flex: 1;">
+  <div style="flex: 1;">
 
 📬 Let’s Connect:<br><br>
 
@@ -55,18 +55,14 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 ✉ You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)<br><br>
 ⚡ Quietly chasing excellence — one project at a time<br><br>
 
+  </div>
 
-
-</div>
-
----
-
-
-<div style="flex: 1; max-width: 300px;">
-  <img src="https://media.giphy.com/media/xuWkuYl33i28fIwkBM/giphy.gif" alt="Coding GIF" style="width: 100%;"/>
-</div>
+  <div style="flex: 0 0 150px;">
+    <img src="https://media.giphy.com/media/xuWkuYl33i28fIwkBM/giphy.gif" alt="Coding GIF" style="width: 150px;"/>
+  </div>
 
 </div>
+
 
 ---
 
