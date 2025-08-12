@@ -42,51 +42,12 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 ---
 ![GitHub Metrics](https://github.com/shodhanshetty12/shodhanshetty12/blob/main/metrics.classic.svg)
 ---
-📜 Certifications:
+## 📊 GitHub Stats
 
- 🎓 Supervised Machine Learning – Coursera (by Andrew Ng, Stanford University)
-
- 🧠 Data Structures & Algorithms using Java – Infosys Springboard
-
- 💼 Software Engineering – Infosys Springboard
-
- 🛡 Ethical Hacking – Infosys Springboard
-
- 🌐 Networking – Infosys Springboard
-
- 📘 Analysis and Design of Algorithms – CodeChef
-
----
-🚀 Academic Projects & Interests:
-
-1\. 🎧 Fake Audio Detection (Deep Learning)
-
-Using CNN to detect deepfake audio in the ASVspoof 2019 dataset, helping prevent scam calls and impersonation attacks.
-
-2\. ⚡ Energy Consumption Anomaly Detection
-
-Time-series deep learning on the UK-DALE dataset, using NILMTK to identify unusual power usage patterns.
-
-3\. 📊 Supply Chain Optimization Dashboard
-
-AI-based real-time web dashboard that visualizes logistics data and improves manufacturing flow.
-
-4\. 🏫 Student Mark Management System
-
-Full-stack JSP-based web application for admin-controlled mark entry, session & cookie management, and responsive dashboard with chart widgets.
-
-
----
-🎯 Goals:
-
- 📈 Build and contribute to real-world impactful projects
-
- 🔍 Explore deeper into AI, Web Engineering, and Security
-
- 🤝 Collaborate with developers and mentors
-
- 🧩 Continue improving problem-solving and design thinking skills
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shodhanshetty12&show_icons=true&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodhanshetty12&layout=compact&theme=dark" height="165">
+</p>
 
  ---
 📬 Let’s Connect:
