@@ -49,25 +49,13 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 🍽 CodeChef: [shodhanshetty](https://www.codechef.com/users/shodhanshetty)<br>
 🌐 Portfolio: Coming Soon<br>
 ✉ You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)<br><br>
-⚡ Quietly chasing excellence — one project at a time<br><br>
-
----
-
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <div style="flex: 1;">
-  <div style="flex: 0 0 150px;">
-    <img src="https://media.giphy.com/media/xuWkuYl33i28fIwkBM/giphy.gif" alt="Coding GIF" style="width: 150px;"/>
-  </div>
-
-</div>
-</div>
+⚡ Quietly chasing excellence — one project at a time
 
 ---
 <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
   <img src="https://media.giphy.com/media/wshaU8JlYmTio/giphy.gif" alt="GIF 1" style="width: 150px; height: auto;" />
   <img src="https://media.giphy.com/media/fLeK058KMisNzSM4B0/giphy.gif" alt="GIF 2" style="width: 150px; height: auto;" />
+      <img src="https://media.giphy.com/media/xuWkuYl33i28fIwkBM/giphy.gif" alt="Coding GIF" style="width: 150px;"/>
   <img src="https://media.giphy.com/media/lMUGMp2lImgGA/giphy.gif" alt="GIF 3" style="width: 150px; height: auto;" />
   <img src="https://media.giphy.com/media/123wIcupCyLHWw/giphy.gif" alt="GIF 4" style="width: 150px; height: auto;" />
 </div>
