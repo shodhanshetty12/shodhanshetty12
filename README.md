@@ -39,17 +39,6 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
  🧪 Other Tools: NILMTK (energy analysis), CAD tools (academic modeling)
 
- ---
-
-📬 Let’s Connect:<br><br>
-
-🔗 LinkedIn: [shodhanKumarShetty](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252/)<br>
-🐙 GitHub: [shodhanshetty12](https://github.com/shodhanshetty12)<br>
-💡 LeetCode: [CtrlAltConquer](https://leetcode.com/u/CtrlAltConquer/)<br>
-🍽 CodeChef: [shodhanshetty](https://www.codechef.com/users/shodhanshetty)<br>
-🌐 Portfolio: Coming Soon<br>
-✉ You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)<br><br>
-⚡ Quietly chasing excellence — one project at a time
 
 ---
 
@@ -134,7 +123,20 @@ My primary focus lies in Java programming, especially solving algorithmic proble
   </a>
 </p>
 
+ ---
+
+📬 Let’s Connect:<br><br>
+
+🔗 LinkedIn: [shodhanKumarShetty](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252/)<br>
+🐙 GitHub: [shodhanshetty12](https://github.com/shodhanshetty12)<br>
+💡 LeetCode: [CtrlAltConquer](https://leetcode.com/u/CtrlAltConquer/)<br>
+🍽 CodeChef: [shodhanshetty](https://www.codechef.com/users/shodhanshetty)<br>
+🌐 Portfolio: Coming Soon<br>
+✉ You can contact me at [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)<br><br>
+⚡ Quietly chasing excellence — one project at a time
+
 ---
+
 
 <p align="center">
   <img src="https://github.com/shodhanshetty12/shodhanshetty12/blob/output/ocean.gif" alt="Snake GIF">
@@ -143,3 +145,6 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 <div align="center">
   <img alt="3D Torus Animation" width="700" src="https://user-images.githubusercontent.com/20885547/108604135-b2f4c980-738a-11eb-8030-6eda2f355ec3.gif">
 </div>
+
+
+
