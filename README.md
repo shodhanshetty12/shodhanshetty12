@@ -125,7 +125,7 @@ My primary focus lies in Java programming, especially solving algorithmic proble
 
  ---
 
-📬 Let’s Connect:<br><br>
+# 📬 Let’s Connect:<br><br>
 
 🔗 LinkedIn: [shodhanKumarShetty](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252/)<br>
 🐙 GitHub: [shodhanshetty12](https://github.com/shodhanshetty12)<br>
