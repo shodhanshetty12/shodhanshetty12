@@ -1,220 +1,217 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=50&duration=3000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hey,+I'm+Shodhan;Full-Stack+Developer;AI+%26+ML+Enthusiast;Android+Developer" alt="Typing animation">
-  </h1>
-</div>
 
-<div align="center">
-  <img alt="Portfolio Animation" width="700" src="https://i.pinimg.com/originals/81/f8/c6/81f8c68bcd0c16e956e90c20cc47e50d.gif" style="border-radius: 10px;">
-</div>
+# 🚀 Shodhan Kumar Shetty
+
+**Computer Science Engineer | Full-Stack Developer | Android Developer | AI Enthusiast**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&pause=1000&color=166EF0&center=true&vCenter=true&width=800&lines=Android+Development;Full-Stack+Development;AI+Applications;IoT+Product+Engineering;Salesforce+Development)
 
 ---
 
-## 🎯 About Me
+### 📊 **Portfolio Highlights**
 
-```
-💻 Full-Stack Developer | 🤖 AI/ML Solutions | 📱 Android Developer | ⚡ Tech Enthusiast
-```
+🌐 **Live Portfolio:** [shodhan-portfolio.vercel.app](https://shodhan-portfolio.vercel.app)
 
-**Shodhan Kumar Shetty** | Computer Science Engineering Student | Final Year at Alva's Institute
-
-I build **scalable web applications**, develop **intelligent ML solutions**, and create **mobile experiences**. With expertise in **Java, JavaScript, Python**, and **cloud technologies**, I transform ideas into impactful products.
-
-🔗 **Portfolio:** [shodhan-portfolio.vercel.app](https://shodhan-portfolio.vercel.app)
+📱 **Featured Projects:** 7+ | 🎓 **Certifications:** 7 | 🏆 **Research Publications:** 1 | 🛠️ **Tools:** 25+
 
 ---
-
-## 📊 Interactive Language Usage Dashboard
-
-<div align="center">
-
-### 🗣️ Languages Used Across All Repositories
-
-```
-JavaScript    ████████████░░░░░░░░░░░░░░░ 28%
-HTML          ████████████░░░░░░░░░░░░░░░ 27%
-CSS           ███████████░░░░░░░░░░░░░░░░ 25%
-Java          ███████░░░░░░░░░░░░░░░░░░░░ 12%
-Python        ███░░░░░░░░░░░░░░░░░░░░░░░░ 5%
-PHP           ██░░░░░░░░░░░░░░░░░░░░░░░░░ 2%
-Others        █░░░░░░░░░░░░░░░░░░░░░░░░░░ 1%
-```
 
 </div>
 
----
+## 🎯 **About Me**
 
-## 🎮 Interactive Score Toggle
+I'm an **aspiring Computer Science Engineer** with hands-on experience in **Android development**, **full-stack systems**, **AI-powered applications**, and **IoT solutions**. Currently in my final year at **Alva's Institute of Engineering and Technology** (CGPA: 7.68).
 
-<div align="center">
-
-### GitHub Activity Score
-```
-┌─────────────────────────────────┐
-│  Score: Based on GitHub Stats   │
-│  ████████████░░░░░░░░░░░░░░░░   │ 74/100
-│                                 │
-│  📈 Commits: High               │
-│  ⭐ Stars: Growing              │
-│  🔥 Streak: Active              │
-│  💡 Contributions: Consistent   │
-└─────────────────────────────────┘
-```
-
-*Score updates automatically based on your GitHub activity*
-
-</div>
+**Internship Experience:** Android Developer Intern at **MindMatrix Inc.** (Feb 2026 – May 2026), where I:
+- 🤖 Built **AI-powered Namma HomeStay Android app** with Gemini AI integration
+- 🏆 Earned **Salesforce Agentblazer Champion 2025 & 2026**
+- 🔧 Implemented **MVVM architecture** with Firebase & Cloudinary
+- 📚 Completed **Salesforce Trailhead & Google Skills Boost**
 
 ---
 
-## 🚀 Featured Projects
+## 🎨 **Tech Stack & Skills**
 
 <div align="center">
 
-### **Shodhan Portfolio** 🌐
-*Personal portfolio with Android apps, full-stack projects & AI solutions*
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Responsive Design, Interactive UI, Deployed on Vercel
-- **Link:** [shodhan-portfolio.vercel.app](https://shodhan-portfolio.vercel.app)
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Android Development**
+![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Material3](https://img.shields.io/badge/Material_Design_3-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### **AI & Cloud**
+![Gemini](https://img.shields.io/badge/Google_Gemini-8957E5?style=for-the-badge&logo=google&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 🏆 **Featured Projects**
+
+### 🎧 **Namma-HomeStay Android App** | Android + AI
+*AI-powered vacation rental platform with Gemini AI integration*
+- **Tech Stack:** Kotlin | Jetpack Compose | Material 3 | Firebase Firestore | Cloudinary | Gemini 1.5 Flash | MVVM
+- **Features:** Real-time synchronization, AI-generated descriptions, Host/Traveler workflows
+- 🔗 **GitHub:** [shodhanshetty12](https://github.com/shodhanshetty12)
+
+### 💼 **SYNEXIS SaaS Platform** | Full-Stack
+*Comprehensive retail operating system for inventory & sales management*
+- **Tech Stack:** React | TypeScript | Node.js | Express.js | PostgreSQL | Prisma ORM
+- **Features:** Multi-store inventory, customer records, business analytics, supplier management
+- 🔗 **GitHub:** [shodhanshetty12](https://github.com/shodhanshetty12)
+
+### 🌾 **IoT Smart Irrigation System** | IoT
+*Real-time automated water management using environmental sensors*
+- **Tech Stack:** ESP32 | DHT11 | Soil Moisture Sensor | Relay Module | Web Dashboard
+- **Features:** Moisture-based automation, real-time monitoring, responsive web interface
+- 🔗 **GitHub:** [shodhanshetty12](https://github.com/shodhanshetty12)
+
+---
+
+## 🎓 **Education & Certifications**
+
+### 🎯 **Bachelor of Engineering in Computer Science**
+**Alva's Institute of Engineering and Technology, Karnataka** (2022 – 2026)
+- **CGPA:** 7.68 | Coursework: Data Structures, Databases, Web Development, AI/ML
+
+### 🏅 **Salesforce Ecosystem**
+- ✅ Salesforce Agentblazer Champion 2025 & 2026
+- ✅ Salesforce Agentforce Innovator 2026
+- ✅ Salesforce Developer 2025 Certification
+- ✅ Salesforce Ranger
+- ✅ Superbadges: Apex Specialist, Object Relationships, Agentforce Service
+
+### 📚 **Professional Certifications**
+- 🤖 **Supervised Machine Learning: Regression & Classification** – DeepLearning.AI / Coursera (Oct 2024)
+- 🗄️ **The Complete SQL Bootcamp** – Udemy (June 2026)
+- 📦 **Introduction to NoSQL Databases** – NPTEL (2024)
+- 💾 **Database Management System (Part 1 & 2)** – NPTEL (2024)
+- ☕ **Programming Using Java** – NPTEL (2024)
+
+---
+
+## 📖 **Research & Publications**
+
+### IEEE Publication 🏆
+**"IoT-Driven Smart Irrigation for Precision Agriculture: Challenges and Prototype Demonstration"**
+- 📄 **Conference:** Global AI Summit 2025 (Technically Co-sponsored by IEEE UP Section)
+- 📅 **Date:** March 2026
+- 🔗 **Read:** [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11410721)
+
+---
+
+## 📊 **GitHub Statistics**
 
 <div align="center">
 
-### **Languages**
-```
-🔵 Java          🟡 JavaScript       🔴 Python
-🟢 C/C++         🔘 SQL              🔷 HTML/CSS
-```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shodhanshetty12&theme=github-dark&stroke=166EF0&ring=166EF0&fire=FF6B6B&currStreakNum=166EF0&dates=166EF0&border=166EF0)](https://git.io/streak-stats)
 
-### **Specializations**
-```
-💻 Web Development (Full-Stack)
-🤖 Machine Learning & AI
-📱 Android Development
-☁️ Cloud & DevOps
-📊 Data Structures & Algorithms
-```
+</div>
 
-### **Tools & Frameworks**
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shodhanshetty12&show_icons=true&theme=github_dark&hide_border=true&icon_color=166EF0&title_color=166EF0&text_color=FFFFFF&bg_color=0D1117)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shodhanshetty12&layout=compact&theme=github_dark&hide_border=true&title_color=166EF0&text_color=FFFFFF&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🎯 **Language Composition (Across All Repos)**
+
+<div align="center">
+
 ```
-React.js | Node.js | Express | MongoDB | PostgreSQL
-Django | TensorFlow | Jupyter | Docker | Git
-VS Code | Android Studio | Eclipse IDE | Figma
+╔════════════════════════════════════════════════════════╗
+║              CODING LANGUAGE BREAKDOWN                 ║
+╠════════════════════════════════════════════════════════╣
+║                                                        ║
+║  🔵 HTML & CSS      ████████████░░░░░░░░░░░░░░░ 36%   ║
+║  🟡 CSS             ████████████░░░░░░░░░░░░░░░ 36%   ║
+║  🟠 JavaScript      ███████████░░░░░░░░░░░░░░░░ 28%   ║
+║  ☕ Java            ███████░░░░░░░░░░░░░░░░░░░░ 15%   ║
+║  🐍 Python          ███░░░░░░░░░░░░░░░░░░░░░░░░  6%   ║
+║  🟣 Other           ██░░░░░░░░░░░░░░░░░░░░░░░░░  4%   ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 📜 Certifications & Achievements
+## 🌟 **Quick Stats**
 
 <div align="center">
 
-🎓 **Supervised Machine Learning** – Coursera (Andrew Ng, Stanford)
-🧠 **Data Structures & Algorithms** – Infosys Springboard  
-💼 **Software Engineering** – Infosys Springboard
-🛡️ **Ethical Hacking** – Infosys Springboard
-🌐 **Networking Fundamentals** – Infosys Springboard
-📘 **Analysis & Design of Algorithms** – CodeChef
+| 📊 Metric | 🎯 Value |
+|-----------|---------|
+| 🔥 **Repositories** | **30+** |
+| 💻 **Languages** | **7+** |
+| 📚 **Projects** | **7+** |
+| 🎓 **Certifications** | **7** |
+| 🏆 **Salesforce Badges** | **5+** |
+| 📖 **Research Papers** | **1** |
+| 🛠️ **Tools & Frameworks** | **25+** |
+| 📈 **GitHub Streak** | **Active** ⚡ |
 
 </div>
 
 ---
 
-## 🏆 Academic Projects
+## 🌐 **Connect With Me**
 
 <div align="center">
 
-### 🎧 Fake Audio Detection (Deep Learning)
-CNN-based deepfake audio detection using ASVspoof dataset
-
-### ⚡ Energy Consumption Anomaly Detection  
-Time-series analysis with UK-DALE dataset using NILMTK
-
-### 📊 Supply Chain Optimization Dashboard
-Real-time AI-powered logistics visualization & analytics
-
-### 🏫 Student Mark Management System
-Full-stack JSP web app with session management & charts
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shodhanshetty12&theme=github-dark)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shodhanshetty12&show_icons=true&theme=github_dark&line_height=27)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shodhanshetty12&theme=github_dark&layout=compact)
-
-</div>
-
----
-
-## 🌐 Socials & Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shodhanshetty12)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CtrlAltConquer/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shodhanshetty)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://shodhan-portfolio.vercel.app)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shodhankumarshetty)
-
-**Email:** [shodhankumarshetty963@gmail.com](mailto:shodhankumarshetty963@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shodhankumarshetty963@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-166EF0?style=for-the-badge&logo=vercel&logoColor=white)](https://shodhan-portfolio.vercel.app)
 
 ---
 
-## 🎯 Goals & Vision
+### 💡 *"Quietly chasing excellence — one project at a time"* ⚡
 
-```
-📈 Build impactful, scalable projects
-🔍 Master AI/ML and Web Engineering  
-🤝 Collaborate with global developers
-🏆 Contribute to open-source
-🚀 Create innovative solutions
-```
+**Open to:** Software Engineering Opportunities | Android Roles | Full-Stack Development | AI/ML Projects | Freelance Tech Services
 
 ---
 
-## 📊 Quick Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🔥 Repositories | 30+ |
-| 💻 Languages | 7+ |
-| 📚 Projects | 15+ |
-| 🎓 Certifications | 6 |
-| 🌟 Stars | Growing |
-
-</div>
-
----
-
-<div align="center">
-
-<img alt="3D Torus Animation" width="700" src="https://user-images.githubusercontent.com/20885547/108604135-b2f4c980-738a-11eb-8030-6eda2f355ec3.gif" style="border-radius: 10px;">
-
----
-
-**© 2024-2026 Shodhan Kumar Shetty | Quietly chasing excellence — one project at a time** ⚡
+**© 2024-2026 Shodhan Kumar Shetty. All rights reserved.**
 
 </div>
