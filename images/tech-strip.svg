@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="lg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#166EF0"/>
+      <stop offset="50%" stop-color="#7F52FF"/>
+      <stop offset="100%" stop-color="#166EF0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="#071022"/>
+  <g transform="translate(40,20)" font-family="sans-serif" font-size="14" fill="#fff">
+    <!-- Animated tech dots -->
+    <g id="dots" transform="translate(0,20)">
+      <circle cx="0" cy="0" r="18" fill="#166EF0">
+        <animate attributeName="cx" values="0;120;240;360;480;600;720;840;960;1080" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="120" cy="0" r="14" fill="#7F52FF">
+        <animate attributeName="cx" values="120;240;360;480;600;720;840;960;1080;0" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="240" cy="0" r="12" fill="#00A1E0">
+        <animate attributeName="cx" values="240;360;480;600;720;840;960;1080;0;120" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="360" cy="0" r="10" fill="#3DDC84">
+        <animate attributeName="cx" values="360;480;600;720;840;960;1080;0;120;240" dur="12s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <!-- Labels that fade in/out above moving dots -->
+    <text x="0" y="70" fill="#9fd6ff" font-weight="600">Java • Kotlin • JavaScript • Python • C</text>
+  </g>
+</svg>
