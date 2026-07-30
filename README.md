@@ -38,7 +38,6 @@ Aspiring Computer Science Engineer with a strong commitment to continuous learni
 ### ⭐ Quick Actions
 
 - View live portfolio: https://shodhan-portfolio.vercel.app
-- Download resume: doc/resume.pdf
 - Contact: mailto:shodhankumarshetty963@gmail.com
 
 
