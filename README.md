@@ -97,18 +97,9 @@ Real-time automated water management using environmental sensors
 
 ---
 
-## 🎨 Ambient Motion
-
 <p align="center">
   <img src="images/particles.svg" alt="ambient particles" width="760" />
 </p>
-
-<p align="center">
-  <img src="images/terminal.svg" alt="terminal build animation" width="600" />
-</p>
-
-Notes:
-- These SVGs are optimized for vector crispness and small file size. If you want GIFs or Lottie conversions I can produce and add them as well.
 
 ---
 
