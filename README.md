@@ -1,4 +1,3 @@
-<!-- README update: insert micro-cards and logo-carousel into Tech Stack section -->
 <div align="center">
 
 # 🚀 Shodhan Kumar Shetty
@@ -23,6 +22,10 @@
 
 <p align="center">
   <img src="images/hero-animated.svg" alt="hero animation" width="980" />
+</p>
+
+<p align="center">
+  <img src="images/portrait-placeholder.svg" alt="portrait" width="220" />
 </p>
 
 **Computer Science Engineer** — Android · Full‑Stack · AI
@@ -74,7 +77,7 @@ Aspiring Computer Science Engineer focused on building practical, production-rea
 
 ## 📄 Resume
 
-I can upload your resume.pdf into doc/resume.pdf so visitors can download it from the profile. If you want that, tell me and I'll add it. (I have the content you previously pasted.)
+Download my resume: [doc/resume.pdf](doc/resume.pdf)
 
 ---
 
