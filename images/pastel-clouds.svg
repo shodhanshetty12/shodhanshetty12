@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="pc1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffd1e6"/>
+      <stop offset="50%" stop-color="#d7f0ff"/>
+      <stop offset="100%" stop-color="#e7d6ff"/>
+    </linearGradient>
+    <filter id="blurme"><feGaussianBlur stdDeviation="8"/></filter>
+  </defs>
+  <rect width="1000" height="360" fill="#0b0f16" />
+
+  <!-- layered clouds (pastel) -->
+  <g transform="translate(0,40)" fill="url(#pc1)" opacity="0.95">
+    <ellipse cx="120" cy="100" rx="170" ry="50" opacity="0.85">
+      <animate attributeName="cx" values="120;200;120" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="420" cy="90" rx="220" ry="60" opacity="0.8">
+      <animate attributeName="cx" values="420;520;420" dur="14s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="740" cy="110" rx="200" ry="55" opacity="0.78">
+      <animate attributeName="cx" values="740;660;740" dur="10s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- twinkling particles -->
+  <g fill="#ffffff" opacity="0.9">
+    <circle cx="60" cy="40" r="1.2"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="60" r="1.0"><animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="50" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- soft pastel gradient band -->
+  <rect x="0" y="260" width="1000" height="100" fill="url(#pc1)" opacity="0.06" />
+
+  <!-- small animated sparkle blob -->
+  <g transform="translate(880,70)">
+    <circle r="18" fill="#fff" opacity="0.04">
+      <animate attributeName="r" values="14;22;14" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="6" fill="#ffd1e6" opacity="0.7">
+      <animate attributeName="cy" values="0;6;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

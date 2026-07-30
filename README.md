@@ -4,7 +4,7 @@
 
 **Computer Science Engineer | Full-Stack Developer | Android Developer | AI Enthusiast**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&pause=1000&color=166EF0&center=true&vCenter=true&width=800&lines=Android+Development;Full-Stack+Development;AI+Applications;IoT+Product+Engineering;Salesforce+Development)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=2800&pause=800&color=166EF0&center=true&vCenter=true&width=760&lines=Android+Development;Full-Stack+Development;AI+Applications;IoT+Product+Engineering)
 
 ---
 
@@ -18,73 +18,37 @@
 
 </div>
 
-
-## 🎯 **Hero — Professional Headline**
+## 🎯 Hero — Professional Headline
 
 <p align="center">
   <img src="images/hero-animated.svg" alt="hero animation" width="980" />
 </p>
 
-**Computer Science Engineer**
+**Computer Science Engineer** — Android · Full‑Stack · AI
 
-Aspiring Computer Science Engineer with a strong commitment to continuous learning, adaptability, and delivering quality results. Passionate about software development, problem-solving, and building practical technology solutions through Android, full-stack, and AI-powered application development.
-
-
-### 🔥 Focus & Highlights
-
-- Android Development
-- Full-Stack Development
-- AI-Powered Applications
-- Research Publication Author
-- Salesforce Ranger
-
-
-### ⭐ Quick Actions
-
-- View live portfolio: https://shodhan-portfolio.vercel.app
-- Contact: mailto:shodhankumarshetty963@gmail.com
-
+Aspiring Computer Science Engineer focused on building practical, production-ready applications with modern architecture and AI-powered features.
 
 ---
 
-## 🎯 **About / Professional summary**
+## 🔥 Visuals — High-quality Aesthetic Motion
 
-A concise, recruiter-friendly view of my internship exposure, technical direction, and the type of products I enjoy building.
+<p align="center">
+  <img src="images/neon-grid.svg" alt="neon grid animation" width="980" />
+</p>
 
-I'm an **aspiring Computer Science Engineer** with hands-on experience in **Android development**, **full-stack systems**, **AI-powered applications**, and **IoT solutions**.
+<p align="center">
+  <img src="images/pastel-clouds.svg" alt="pastel clouds animation" width="880" />
+</p>
 
-**Internship Experience:** Android Developer Intern at **MindMatrix Inc.** (Feb 2026 – May 2026), where I:
-- 🤖 Built **AI-powered Namma HomeStay Android app** with Gemini AI integration
-- 🏆 Earned **Salesforce Agentblazer Champion 2025 & 2026**
-- 🔧 Implemented **MVVM architecture** with Firebase & Cloudinary
-- 📚 Completed **Salesforce Trailhead & Google Skills Boost**
+<p align="center">
+  <img src="images/anime-window.svg" alt="anime window scene" width="640" />
+</p>
 
-
----
-
-## 🏆 Featured Projects
-
-### 🎧 Namma-HomeStay Android App | Android + AI
-AI-powered vacation rental platform with Gemini AI integration
-- Tech Stack: Kotlin | Jetpack Compose | Material 3 | Firebase Firestore | Cloudinary | Gemini 1.5 Flash | MVVM
-- Features: Real-time synchronization, AI-generated descriptions, Host/Traveler workflows
-- GitHub: https://github.com/shodhanshetty12
-
-### 💼 SYNEXIS SaaS Platform | Full-Stack
-Comprehensive retail operating system for inventory & sales management
-- Tech Stack: React | TypeScript | Node.js | Express.js | PostgreSQL | Prisma ORM
-- Features: Multi-store inventory, customer records, business analytics, supplier management
-- GitHub: https://github.com/shodhanshetty12
-
-### 🌾 IoT Smart Irrigation System | IoT
-Real-time automated water management using environmental sensors
-- Tech Stack: ESP32 | DHT11 | Soil Moisture Sensor | Relay Module | Web Dashboard
-- Features: Moisture-based automation, real-time monitoring, responsive web interface
-- GitHub: https://github.com/shodhanshetty12
+Notes: these are vector SVG animations (crisp, small, and smoothly looping). If you still want raster GIFs for portrait/character motion I can add optimized GIFs as well.
 
 ---
 
-## 🎨 Tech Stack & Skills
+## 🎨 Tech Stack & Skills — Visual Grid
 
 ### Programming Languages
 
@@ -110,31 +74,6 @@ Real-time automated water management using environmental sensors
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
----
-
-## 🎨 Ambient Motion & Tech Flow
-
-<p align="center">
-  <img src="images/tech-strip.svg" alt="animated tech strip" width="980" />
-</p>
-
-<p align="center">
-  <img src="images/hero-accent.svg" alt="hero accent" width="420" />
-</p>
-
-<p align="center">
-  <img src="images/particles.svg" alt="ambient particles" width="760" />
-</p>
-
-<p align="center">
-  <img src="images/terminal.svg" alt="terminal build animation" width="600" />
-</p>
-
-Notes:
-- SVG animations are vector-based and lightweight. If you want additional raster GIFs (portrait or effects), I can add optimized GIFs next.
-- I’ll also add more logo-specific micro-animations (shields converted to small animated cards) if you want — say the ones you want highlighted and I’ll animate them.
-
 ---
 
 ## 📊 GitHub Stats & Language Composition
@@ -143,12 +82,11 @@ Notes:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shodhanshetty12&show_icons=true&theme=github_dark&hide_border=true&icon_color=166EF0&title_color=166EF0&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shodhanshetty12) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shodhankumarshetty963@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-166EF0?style=for-the-badge&logo=vercel&logoColor=white)](https://shodhan-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shodhanshetty12) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shodhankumarshetty963@gmail.com)
 
 ---
 

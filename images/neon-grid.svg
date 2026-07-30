@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="50%" stop-color="#17142b"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7F52FF"/>
+      <stop offset="50%" stop-color="#166EF0"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b" />
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="480" fill="url(#sky)" />
+
+  <!-- stars -->
+  <g id="stars" fill="#9fd6ff" opacity="0.9">
+    <circle cx="60" cy="40" r="1.6" />
+    <circle cx="180" cy="70" r="1.2" />
+    <circle cx="300" cy="30" r="1.8" />
+    <circle cx="460" cy="90" r="1.1" />
+    <circle cx="620" cy="60" r="1.4" />
+    <circle cx="780" cy="40" r="1.2" />
+    <circle cx="920" cy="100" r="1.5" />
+    <circle cx="1060" cy="50" r="1.1" />
+    <circle cx="1130" cy="120" r="1.6" />
+  </g>
+
+  <!-- animated neon grid -->
+  <g transform="translate(0,260)" filter="url(#glow)">
+    <g id="grid" stroke="url(#neon)" stroke-width="2" fill="none" >
+      <!-- perspective horizontal lines animated -->
+      <path d="M0 10 L1200 10" stroke-opacity="0.25">
+        <animate attributeName="stroke-opacity" values="0.25;0.6;0.25" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 50 L1200 50" stroke-opacity="0.18">
+        <animate attributeName="stroke-opacity" values="0.18;0.45;0.18" dur="7s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 90 L1200 90" stroke-opacity="0.14">
+        <animate attributeName="stroke-opacity" values="0.14;0.36;0.14" dur="8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 130 L1200 130" stroke-opacity="0.12"/>
+      <path d="M0 170 L1200 170" stroke-opacity="0.10"/>
+      <!-- vertical converging lines -->
+      <g>
+        <path d="M600 0 L600 240" stroke-opacity="0.3">
+          <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; -40 0; 0 0" dur="5s" repeatCount="indefinite"/>
+        </path>
+        <path d="M660 0 L660 240" stroke-opacity="0.2">
+          <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="6s" repeatCount="indefinite"/>
+        </path>
+      </g>
+    </g>
+
+    <!-- horizon reflection glow -->
+    <ellipse cx="600" cy="260" rx="480" ry="28" fill="url(#neon)" opacity="0.06" />
+  </g>
+
+  <!-- soft aurora waves -->
+  <g opacity="0.85">
+    <path fill="url(#neon)" opacity="0.05">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="M0,220 C200,180 400,260 600,220 C800,180 1000,260 1200,220 L1200,480 L0,480Z; M0,240 C200,200 400,220 600,240 C800,260 1000,200 1200,240 L1200,480 L0,480Z; M0,220 C200,180 400,260 600,220 C800,180 1000,260 1200,220 L1200,480 L0,480Z"/>
+    </path>
+  </g>
+
+  <!-- focal neon sphere -->
+  <g transform="translate(600,160)">
+    <circle r="42" fill="#ffffff" opacity="0.06" />
+    <circle r="28" fill="url(#neon)" opacity="0.9">
+      <animate attributeName="r" values="26;32;26" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+</svg>
