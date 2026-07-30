@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140">
+  <style>
+    .bg{fill:#071022}
+    .frame{fill:#0b1220;stroke:#1b2b3a;stroke-width:2}
+    .text{font:16px monospace; fill:#9fd6ff}
+  </style>
+  <rect width="600" height="140" class="bg"/>
+  <rect x="20" y="18" width="560" height="104" rx="8" class="frame"/>
+  <g transform="translate(48,56)">
+    <text class="text">$ npm run build</text>
+    <text class="text" y="22">Building project...</text>
+    <text class="text" y="44" id="t">Initializing</text>
+    <rect x="0" y="64" width="240" height="8" rx="4" fill="#153b74">
+      <animate attributeName="width" from="0" to="240" dur="6s" repeatCount="indefinite" />
+    </rect>
+    <animate xlink:href="#t" attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite" />
+  </g>
+</svg>

@@ -21,6 +21,10 @@
 
 ## 🎯 **Hero — Professional Headline**
 
+<p align="center">
+  <img src="images/hero-animated.svg" alt="hero animation" width="980" />
+</p>
+
 **Computer Science Engineer**
 
 Aspiring Computer Science Engineer with a strong commitment to continuous learning, adaptability, and delivering quality results. Passionate about software development, problem-solving, and building practical technology solutions through Android, full-stack, and AI-powered application development.
@@ -93,30 +97,18 @@ Real-time automated water management using environmental sensors
 
 ---
 
-## 📖 Research & Publications
-
-**"IoT-Driven Smart Irrigation for Precision Agriculture: Challenges and Prototype Demonstration"**
-- Conference: Global AI Summit 2025 (Technically Co-sponsored by IEEE UP Section)
-- Date: March 2026
-- Read: https://ieeexplore.ieee.org/abstract/document/11410721
-
----
-
-## 🎨 Visuals — Interactive & Animated (GIFs / Motion)
-
-To make the profile more dynamic and craftful, I've added animated visual placeholders below. These are external GIFs — I can replace them with custom GIFs or animated SVGs you prefer (upload the files and I will add them inline).
-
+## 🎨 Ambient Motion
 
 <p align="center">
-  <img alt="animated-gradient" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" />
-  <img alt="coding-gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-  <img alt="particles" src="https://media.giphy.com/media/l0MYEQE1cm3Z8b7QI/giphy.gif" width="200" />
+  <img src="images/particles.svg" alt="ambient particles" width="760" />
 </p>
 
+<p align="center">
+  <img src="images/terminal.svg" alt="terminal build animation" width="600" />
+</p>
 
 Notes:
-- If you want richer motion (vector Lottie animations), provide the .json Lottie files or let me pick and convert them to GIF.
-- I can also upload custom hero GIFs and profile animated avatar into the repo so the README uses local assets for faster loading.
+- These SVGs are optimized for vector crispness and small file size. If you want GIFs or Lottie conversions I can produce and add them as well.
 
 ---
 

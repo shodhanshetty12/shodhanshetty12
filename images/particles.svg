@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="pgrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#166EF0" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#7F52FF" stop-opacity="0.35" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="#0b1220" />
+  <g fill="url(#pgrad)">
+    <circle cx="120" cy="40" r="6">
+      <animate attributeName="cy" dur="6s" values="40;10;40" repeatCount="indefinite" />
+      <animate attributeName="cx" dur="8s" values="120;180;120" repeatCount="indefinite" />
+      <animate attributeName="r" dur="4s" values="6;10;6" repeatCount="indefinite" />
+    </circle>
+    <circle cx="320" cy="160" r="10" fill-opacity="0.85">
+      <animate attributeName="cy" dur="5s" values="160;120;160" repeatCount="indefinite" />
+    </circle>
+    <circle cx="520" cy="80" r="8" fill-opacity="0.9">
+      <animate attributeName="cx" dur="7s" values="520;620;520" repeatCount="indefinite" />
+      <animate attributeName="cy" dur="6s" values="80;40;80" repeatCount="indefinite" />
+    </circle>
+    <circle cx="720" cy="30" r="5" fill-opacity="0.7">
+      <animate attributeName="cy" dur="9s" values="30;70;30" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>

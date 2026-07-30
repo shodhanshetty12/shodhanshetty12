@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#166EF0">
+        <animate attributeName="stop-color" values="#166EF0;#7F52FF;#166EF0" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#7F52FF">
+        <animate attributeName="stop-color" values="#7F52FF;#166EF0;#7F52FF" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="f" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b" />
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" fill="url(#g)" />
+  <g transform="translate(60,190)">
+    <text x="0" y="0" font-family="'Segoe UI', Roboto, sans-serif" font-size="48" fill="#ffffff" font-weight="700">Shodhan Kumar Shetty</text>
+    <text x="0" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" fill="#e8f0ff">Computer Science Engineer — Android · Full‑Stack · AI</text>
+  </g>
+  <g transform="translate(940,20)">
+    <circle cx="40" cy="40" r="28" fill="#fff" fill-opacity="0.06" filter="url(#f)"></circle>
+  </g>
+</svg>
