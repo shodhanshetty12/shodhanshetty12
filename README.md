@@ -46,9 +46,9 @@ Aspiring Computer Science Engineer with a strong commitment to continuous learni
 
 ## 🎯 **About / Professional summary**
 
-A concise, recruiter-friendly view of my education, internship exposure, technical direction, and the type of products I enjoy building.
+A concise, recruiter-friendly view of my internship exposure, technical direction, and the type of products I enjoy building.
 
-I'm an **aspiring Computer Science Engineer** with hands-on experience in **Android development**, **full-stack systems**, **AI-powered applications**, and **IoT solutions**. Currently in my final year at **Alva's Institute of Engineering and Technology** (CGPA: 7.68).
+I'm an **aspiring Computer Science Engineer** with hands-on experience in **Android development**, **full-stack systems**, **AI-powered applications**, and **IoT solutions**.
 
 **Internship Experience:** Android Developer Intern at **MindMatrix Inc.** (Feb 2026 – May 2026), where I:
 - 🤖 Built **AI-powered Namma HomeStay Android app** with Gemini AI integration
@@ -94,26 +94,30 @@ Real-time automated water management using environmental sensors
 
 ---
 
-## 🎓 Education & Certifications
-
-**Bachelor of Engineering in Computer Science** — Alva's Institute of Engineering and Technology, Karnataka (2022 – 2026)
-- CGPA: 7.68
-
-**Salesforce & Professional Certifications**
-- Salesforce Agentblazer Champion 2025 & 2026
-- Salesforce Agentforce Innovator 2026
-- Salesforce Developer 2025 Certification
-- Supervised Machine Learning: Regression & Classification — DeepLearning.AI / Coursera (Oct 2024)
-- The Complete SQL Bootcamp — Udemy (June 2026)
-
----
-
 ## 📖 Research & Publications
 
 **"IoT-Driven Smart Irrigation for Precision Agriculture: Challenges and Prototype Demonstration"**
 - Conference: Global AI Summit 2025 (Technically Co-sponsored by IEEE UP Section)
 - Date: March 2026
 - Read: https://ieeexplore.ieee.org/abstract/document/11410721
+
+---
+
+## 🎨 Visuals — Interactive & Animated (GIFs / Motion)
+
+To make the profile more dynamic and craftful, I've added animated visual placeholders below. These are external GIFs — I can replace them with custom GIFs or animated SVGs you prefer (upload the files and I will add them inline).
+
+
+<p align="center">
+  <img alt="animated-gradient" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420" />
+  <img alt="coding-gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+  <img alt="particles" src="https://media.giphy.com/media/l0MYEQE1cm3Z8b7QI/giphy.gif" width="200" />
+</p>
+
+
+Notes:
+- If you want richer motion (vector Lottie animations), provide the .json Lottie files or let me pick and convert them to GIF.
+- I can also upload custom hero GIFs and profile animated avatar into the repo so the README uses local assets for faster loading.
 
 ---
 
