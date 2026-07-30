@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 84" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8957E5"/>
+      <stop offset="100%" stop-color="#166EF0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b" />
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="240" height="84" rx="10" fill="#071022" stroke="url(#g)" stroke-width="1"/>
+  <g transform="translate(18,46)">
+    <rect x="0" y="-24" width="56" height="56" rx="10" fill="url(#g)" filter="url(#glow)"/>
+    <g transform="translate(70,-8)">
+      <text x="0" y="0" font-size="14" fill="#fff" font-family="Segoe UI, Roboto, sans-serif" font-weight="700">Gemini</text>
+      <text x="0" y="18" font-size="11" fill="#9fd6ff">AI • LLMs • Multimodal</text>
+    </g>
+  </g>
+  <!-- subtle pulse -->
+  <circle cx="40" cy="38" r="20" fill="none" stroke="url(#g)" stroke-opacity="0.06">
+    <animate attributeName="r" values="18;26;18" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.06;0.18;0.06" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

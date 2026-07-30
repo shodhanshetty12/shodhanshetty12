@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 84" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="gk" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7F52FF"/>
+      <stop offset="100%" stop-color="#3DDC84"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="84" rx="10" fill="#071022" stroke="#10202b"/>
+  <g transform="translate(18,26)">
+    <rect x="0" y="0" width="56" height="56" rx="10" fill="#2b2f34"/>
+    <g transform="translate(70,14)">
+      <text x="0" y="0" font-size="14" fill="#fff" font-family="Segoe UI, Roboto, sans-serif" font-weight="700">Jetpack</text>
+      <text x="0" y="18" font-size="11" fill="#9fd6ff">Compose • UI</text>
+    </g>
+  </g>
+  <!-- soft slide animation -->
+  <g>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 6 0; 0 0" dur="4s" repeatCount="indefinite"/>
+  </g>
+</svg>

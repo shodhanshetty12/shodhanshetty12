@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 84" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="gf" x1="0" x2="1">
+      <stop offset="0%" stop-color="#FFB400"/>
+      <stop offset="100%" stop-color="#FF6A00"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="84" rx="10" fill="#071022" stroke="#1a2a34"/>
+  <g transform="translate(18,14)">
+    <rect x="0" y="10" width="56" height="56" rx="10" fill="url(#gf)"/>
+    <g transform="translate(70,30)">
+      <text x="0" y="0" font-size="14" fill="#071022" font-family="Segoe UI, Roboto, sans-serif" font-weight="800">Firebase</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" attributeType="XML" type="scale" values="1;1.03;1" dur="3.5s" repeatCount="indefinite"/>
+  </g>
+</svg>

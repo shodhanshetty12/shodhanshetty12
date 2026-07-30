@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 220" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="glow2" x1="0" x2="1"><stop offset="0%" stop-color="#7F52FF"/><stop offset="100%" stop-color="#166EF0"/></linearGradient>
+  </defs>
+  <rect width="820" height="220" rx="12" fill="#06111a"/>
+  <g transform="translate(24,24)" font-family="Segoe UI, Roboto, sans-serif">
+    <text x="0" y="0" font-size="18" fill="#9fd6ff" font-weight="700">Highlighted Technologies</text>
+    <g transform="translate(0,32)">
+      <image href="images/micro-gemini.svg" x="0" y="0" width="240" height="84"/>
+      <image href="images/micro-jetpack.svg" x="260" y="0" width="240" height="84"/>
+      <image href="images/micro-firebase.svg" x="520" y="0" width="240" height="84"/>
+    </g>
+  </g>
+</svg>

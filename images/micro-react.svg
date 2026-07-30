@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 84" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="gr" x1="0" x2="1">
+      <stop offset="0%" stop-color="#61DAFB"/>
+      <stop offset="100%" stop-color="#1b9fff"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="84" rx="10" fill="#071022" stroke="#0f2430"/>
+  <g transform="translate(18,24)">
+    <rect x="0" y="0" width="56" height="56" rx="10" fill="url(#gr)"/>
+    <g transform="translate(70,20)">
+      <text x="0" y="0" font-size="14" fill="#fff" font-family="Segoe UI, Roboto, sans-serif" font-weight="700">React</text>
+      <text x="0" y="18" font-size="11" fill="#9fd6ff">SPA • Frontend</text>
+    </g>
+  </g>
+  <circle cx="40" cy="40" r="22" fill="none" stroke="url(#gr)" stroke-width="2" opacity="0.12">
+    <animate attributeName="stroke-opacity" values="0.12;0.36;0.12" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
