@@ -24,35 +24,56 @@ Building production-ready Android apps, web applications, and AI-enabled feature
 
 ---
 
-## 🛠️ Technical Skills
+<h3>💻 Technical Skills</h3>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.simpleicons.org/java" alt="Java" width="40" height="40" title="Java"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/c" alt="C" width="40" height="40" title="C (Intermediate)"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/kotlin" alt="Kotlin" width="40" height="40" title="Kotlin (Intermediate)"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40" title="Python (Basic)"/>&nbsp;
 
-<div align="center" style="display:flex;justify-content:center;align-items:center;gap:12px;flex-wrap:wrap;">
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.simpleicons.org/java" alt="Java" title="Java" width="48" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.simpleicons.org/c" alt="C" title="C (Intermediate)" width="48"/></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/kotlin" alt="Kotlin" title="Kotlin (Intermediate)" width="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python" alt="Python" title="Python (Basic)" width="48" /></a>
-  <a href="https://developer.android.com/" target="_blank"><img src="https://cdn.simpleicons.org/android" alt="Android" title="Android" width="48" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="48" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" width="48" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="48"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" width="48"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express" alt="Express" title="Express.js" width="48"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="48"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="48"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase" alt="Firebase" title="Firebase" width="48"/></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.simpleicons.org/prisma" alt="Prisma" title="Prisma ORM" width="48"/></a>
-  <a href="https://cloudinary.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudinary" alt="Cloudinary" title="Cloudinary" width="48"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" width="48"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" title="AWS" width="48"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://cdn.simpleicons.org/vercel" alt="Vercel" title="Vercel" width="48"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="48"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" width="48"/></a>
-</div>
+  <!-- Mobile Development -->
+  <img src="https://cdn.simpleicons.org/jetpackcompose" alt="Jetpack Compose" width="40" height="40" title="Jetpack Compose"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/android" alt="Android SDK" width="40" height="40" title="Android SDK"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/materialdesign" alt="Material Design" width="40" height="40" title="Material Design / Material 3"/>&nbsp;
 
----
+  <!-- Frontend Development -->
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40" title="React"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40" title="HTML5"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="40" height="40" title="CSS3"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40" title="JavaScript"/>&nbsp;
 
-### TECHNICAL SKILLS (detailed)
+  <!-- Backend Development -->
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="NodeJS" width="40" height="40" title="Node.js"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/express" alt="Express" width="40" height="40" title="Express.js"/>&nbsp;
 
+  <!-- Databases & Cloud -->
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40" title="MySQL"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="40" height="40" title="Firebase"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="40" height="40" title="Prisma ORM"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudinary" alt="Cloudinary" width="40" height="40" title="Cloudinary"/>&nbsp;
+
+  <!-- Tools & Platforms -->
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="40" height="40" title="Git"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40" title="GitHub"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="40" height="40" title="VS Code"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/androidstudio" alt="Android Studio" width="40" height="40" title="Android Studio"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/eclipse" alt="Eclipse" width="40" height="40" title="Eclipse"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40" height="40" title="Postman"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel" alt="Vercel" width="40" height="40" title="Vercel"/>&nbsp;
+
+  <!-- AI Development Tools -->
+  <img src="https://cdn.simpleicons.org/cursor" alt="Cursor" width="40" height="40" title="Cursor"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/replit" alt="Replit" width="40" height="40" title="Replit"/>&nbsp;
+  <!-- Devin, Claude, Trae, Codex don't have official simpleicons slugs on CDN; kept as text below -->
+
+  <!-- Documentation & Design -->
+  <img src="https://cdn.simpleicons.org/overleaf" alt="Overleaf" width="40" height="40" title="Overleaf (LaTeX)"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/solidworks" alt="Solid Edge" width="40" height="40" title="Solid Edge / CAD"/>
+</p>
+
+<p>
 - Languages: Java, C (Intermediate), Kotlin (Intermediate), Python (Basic), JavaScript, TypeScript
 - Mobile Development: Jetpack Compose, Android SDK, Material 3, Coroutines, Flow
 - Frontend Development: React, HTML, CSS, JavaScript
@@ -61,6 +82,18 @@ Building production-ready Android apps, web applications, and AI-enabled feature
 - Tools: Git, GitHub, VS Code, Android Studio, Eclipse, Postman, Vercel, Docker
 - AI Development Tools: Cursor, Devin, Claude, Codex, Trae, Replit
 - Documentation & Design: Overleaf (LaTeX), Solid Edge CAD
+</p>
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <a href="https://www.linkedin.com/in/shodhan-kumar-shetty-182568252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" /></a>
+  <a href="https://github.com/shodhanshetty12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" /></a>
+  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" /></a>
+</div>
+
+<br>
+<p>Inspired by: https://github.com/topics/awesome-github-profiles — I used design patterns from top examples to make this README clean and scannable. If you want a neon/cyber header or project logos added next, I can add them now.</p>
 
 ---
 
@@ -76,12 +109,6 @@ Building production-ready Android apps, web applications, and AI-enabled feature
 ## 📄 Resume
 
 Download my resume: [doc/resume.pdf](doc/resume.pdf)
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shodhan-kumar-shetty-182568252) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shodhanshetty12)
 
 ---
 
