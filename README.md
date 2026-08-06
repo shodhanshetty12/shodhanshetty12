@@ -27,24 +27,27 @@ Building production-ready Android apps, web applications, and AI-enabled feature
 ## 🛠️ Technical Skills
 
 <div align="center" style="display:flex;justify-content:center;align-items:center;gap:12px;flex-wrap:wrap;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" />
-  <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="48" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" />
-  <img src="https://techstack-generator.vercel.app/typescript-icon.svg" alt="TypeScript" width="48" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" />
-  <img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Node.js" width="48" />
-  <img src="https://techstack-generator.vercel.app/android-icon.svg" alt="Android" width="48" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" />
-  <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="48" />
-  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="48" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" />
-  <img src="https://techstack-generator.vercel.app/rest-icon.svg" alt="REST" width="48" />
-  <img src="https://techstack-generator.vercel.app/vercel-icon.svg" alt="Vercel" width="48" />
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.simpleicons.org/java" alt="Java" title="Java" width="48" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.simpleicons.org/c" alt="C" title="C (Intermediate)" width="48"/></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/kotlin" alt="Kotlin" title="Kotlin (Intermediate)" width="48" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python" alt="Python" title="Python (Basic)" width="48" /></a>
+  <a href="https://developer.android.com/" target="_blank"><img src="https://cdn.simpleicons.org/android" alt="Android" title="Android" width="48" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" width="48" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="48"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" width="48"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express" alt="Express" title="Express.js" width="48"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="48"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="48"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase" alt="Firebase" title="Firebase" width="48"/></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.simpleicons.org/prisma" alt="Prisma" title="Prisma ORM" width="48"/></a>
+  <a href="https://cloudinary.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudinary" alt="Cloudinary" title="Cloudinary" width="48"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" width="48"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" title="AWS" width="48"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://cdn.simpleicons.org/vercel" alt="Vercel" title="Vercel" width="48"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="48"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" width="48"/></a>
 </div>
-
 
 ---
 
